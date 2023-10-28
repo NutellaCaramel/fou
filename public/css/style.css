@@ -1,0 +1,28 @@
+.footer{
+    margin-top:30rem ;
+    position:absolute;
+    width:100%;
+   
+
+}
+
+
+.body{
+    background-image: linear-gradient(100deg, rgb(91, 224, 224),black);
+}
+
+.img{
+   width:60px;
+}
+
+.img1{
+    width:300px;
+}
+
+.img2{
+   padding:30px;
+}
+
+.carousel{
+    width:300px; 
+}
